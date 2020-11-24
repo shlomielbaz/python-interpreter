@@ -1,10 +1,9 @@
 # Python Interpreter
 
-I have been asked to do a programmer recruit test which is interpreter for a simple programming language called ALPL.
-The interpreter should be written in python, you can use any library/module that you want. The interpreter
-input is a text file containing the ALPL program.
+This is my attempt to create a programing language iterpreter, the language called ALPL and the interpreter implemented in Python.
+The program should get a script with extension "alpl" as a command-line argument and excute it,
 
-Here is a description and rules of the language:
+In this stage the ALPL language contains 6 commands, the following is a description and rules of the language:
 * The language only deals with positive or negative integer numbers
 * There are ten registers numbered R0 - R9, each register can hold an integer number
 * All the language tokens are in UPPERCASE
