@@ -55,4 +55,4 @@ In this stage the ALPL language contains 6 commands, the following is a descript
 
 
 ### shlomi.elbaz@outlook.com
-### [link](https://www.linkedin.com/in/shlomi-elbaz/){:target="_blank"}
+### https://www.linkedin.com/in/shlomi-elbaz/
