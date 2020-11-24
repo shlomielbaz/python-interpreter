@@ -50,7 +50,7 @@ In this stage the ALPL language contains 6 commands, the following is a descript
 * `executer.py` - where we execute the execution plan line by line
 * `tracer.py` - where we set the tracer mode
 
-#### Run scripts:
+#### Usage:
 ```python main.py FILE_NAME (ALPL code file)```
 
 
