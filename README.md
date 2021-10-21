@@ -1,7 +1,8 @@
 # Python Interpreter
 
-This is my attempt to create a programing language iterpreter, the language called ALPL and the interpreter implemented in Python.
-The program should get a script with extension "alpl" as a command-line argument and excute it,
+This is my attempt to create a programing language, the language called ALPL and the interpreter implemented in Python.
+The program should get a "alpl" script and excute it,
+The programe expect to get a file with extension "alpl" as a command-line argument.
 
 In this stage the ALPL language contains 6 commands, the following is a description and rules of the language:
 * The language only deals with positive or negative integer numbers
